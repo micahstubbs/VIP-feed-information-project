@@ -54,27 +54,65 @@ user:
 replace
 "user":
 
+find
+division_id
+replace
+"division_id"
+
+find
+vip_version
+replace
+"vip_version"
+
+find
+is_ocd_id_early_vote
+replace
+"is_ocd_id_early_vote"
+
 add commas at ends of lines
 http://stackoverflow.com/questions/6074041/how-to-add-a-comma-to-the-last-character-of-a-line-in-a-textfile
 http://stackoverflow.com/questions/27856571/regex-matching-any-character-including-spaces
 find
 
 find
-(\s\s"nid":(.*?))$
+((.*?)"nid":(.*?))$
 replace
 \1,
 
 find
-(\s\s"election_id":(.*?))$
+((.*?)"election_id":(.*?))$
 replace
 \1,
 
 find
-(\s\s"title":(.*?))$
+((.*?)"title":(.*?))$
 replace
 \1,
 
 find
-(\s\s"is_test_election":(.*?))$
+((.*?)"feed_url":(.*?))$
 replace
 \1,
+
+find
+((.*?)"is_test_election":(.*?))$
+replace
+\1,
+
+find
+((.*?)"division_id":(.*?))$
+replace
+\1,
+
+find
+((.*?)"vip_version":(.*?))$
+replace
+\1,
+
+find
+((.*?)"is_ocd_id_early_vote":(.*?))$
+replace
+\1,
+
+
+
