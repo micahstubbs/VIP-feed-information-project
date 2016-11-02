@@ -1,0 +1,23 @@
+{
+  "name": "vip-feed-info",
+  "version": "1.0.0",
+  "description": "VIP-feed-information-project ============================",
+  "main": "get.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micahstubbs/VIP-feed-information-project.git"
+  },
+  "author": "@micahstubbs <micah.stubbs@gmail.com> (https://twitter.com/micahstubbs)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micahstubbs/VIP-feed-information-project/issues"
+  },
+  "homepage": "https://github.com/micahstubbs/VIP-feed-information-project#readme",
+  "dependencies": {
+    "node-libcurl": "^1.0.0",
+    "path": "^0.12.7"
+  }
+}
