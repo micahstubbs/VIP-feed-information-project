@@ -1,0 +1,3083 @@
+[
+{
+  "nid": 3020
+  "election_id": 2000
+  "title": "SC Test Election"
+  "feed_url": "https://data.votinginfoproject.org/feeds/sc/vipFeed-45-2012-11-06.zip"
+  "is_test_election": true
+  "user": "tiana@votinginfoproject.org"
+},
+{
+  "nid": 3205
+  "election_id": 2000
+  "title": "NV 2014 Primary"
+  "feed_url": "https://data.votinginfoproject.org/feeds/nv/VIPFeed-32-2014-06-10.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3206
+  "election_id": 2000
+  "title": "NC 2014 Primary"
+  "feed_url": "https://data.votinginfoproject.org/feeds/nc/vipFeed-37-2014-05-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3203
+  "election_id": 2000
+  "title": "RI 2014 Municipal Primary"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2014-02-03.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3204
+  "election_id": 2000
+  "title": "DE 2014 Test Primary"
+  "feed_url": "https://data.votinginfoproject.org/feeds/de/vipFeed-10-2012-09-11.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3210
+  "election_id": 2000
+  "title": "UT 2014 Test Primary"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ut/vipFeed-49-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3211
+  "election_id": 2000
+  "title": "NYC 2013 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2013-11-05.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3212
+  "election_id": 2000
+  "title": "VA 2013 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/va/vipFeed-51-2013-11-05.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3213
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06001-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3214
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06003-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3215
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06005-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3216
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06007-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3217
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06009-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3218
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06011-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3219
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06013-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3220
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06015-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3221
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06017-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3222
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06019-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3223
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06021-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3224
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06023-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3225
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06025-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3226
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06027-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3227
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06029-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3228
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06031-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3229
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06033-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3230
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06035-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3231
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3232
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06039-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3233
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06041-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3234
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06043-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3235
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06045-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3236
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06047-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3237
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06049-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3238
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06051-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3239
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06053-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3240
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06055-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3241
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06057-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3242
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06059-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3243
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06061-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3244
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06063-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3245
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06065-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3246
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06067-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3247
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06069-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3248
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06071-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3249
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06073-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3250
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06075-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3251
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06077-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3252
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06079-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3253
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06081-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3254
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06083-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3255
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06085-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3256
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06087-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3257
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06089-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3258
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06091-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3259
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06093-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3260
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06095-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3261
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06097-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3262
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06099-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3263
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06101-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3264
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06103-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3265
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06105-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3266
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06107-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3267
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06109-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3268
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06111-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3269
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06113-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3270
+  "election_id": 2000
+  "title": "CA 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ca/vipFeed-06115-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3312
+  "election_id": 2000
+  "title": "MN 2012 General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/mn/vipFeed-27-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3342
+  "election_id": 2000
+  "title": "MO 2014 Test Primary"
+  "feed_url": "https://data.votinginfoproject.org/feeds/mo/vipFeed-29-2014-08-05.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3019
+  "election_id": 2000
+  "title": "WI 2014 Test Election"
+  "feed_url": "https://data.votinginfoproject.org/feeds/wi/vipFeed-55-2014-04-01.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3351
+  "election_id": 2000
+  "title": "IA 2012 Test Election"
+  "feed_url": "https://data.votinginfoproject.org/feeds/ia/vipFeed-19-2012-11-06.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3354
+  "election_id": 2000
+  "title": "PA 2014 Test Election"
+  "feed_url": "https://data.votinginfoproject.org/feeds/pa/vipFeed-42-2014-05-20.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3359
+  "election_id": 2000
+  "title": "NM 2014 Primary"
+  "feed_url": "https://data.votinginfoproject.org/feeds/nm/vipFeed-35-2014-06-03.zip"
+  "is_test_election": true
+  "user": "noma@turbovote.org"
+},
+{
+  "nid": 3421
+  "election_id": 2000
+  "title": "IL 2014 Test General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/il/vipFeed-17-2014-11-04.zip"
+  "is_test_election": true
+  "user": "noma@democracy.works"
+},
+{
+  "nid": 3426
+  "election_id": 2000
+  "title": "Orange County Primary"
+  "feed_url": "https://data.votinginfoproject.org/feeds/fl/vipFeed-12095-2014-08-26.zip"
+  "is_test_election": true
+  "user": "noma@democracy.works"
+},
+{
+  "nid": 3585
+  "election_id": 2000
+  "title": "DE 2014 Test General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/de/vipFeed-10-2014-11-04_test.zip"
+  "is_test_election": true
+  "user": "noma@democracy.works"
+},
+{
+  "nid": 4050
+  "election_id": 4102
+  "title": "Alabama Test Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-01-2014-11-04.zip"
+  division_id: "ocd-division/country:us/state:al"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4070
+  "election_id": 4102
+  "title": "PA Test General"
+  "feed_url": "https://data.votinginfoproject.org/feeds/pa/vipFeed-42-2015-11-03.zip"
+  division_id: "ocd-division/country:us/state:pa"
+  "user": "noma@democracy.works"
+},
+{
+  "nid": 4071
+  "election_id": 4102
+  "title": "IN Test General"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-17001-IL-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:in"
+  "user": "noma@democracy.works"
+},
+{
+  "nid": 4072
+  "election_id": 4170
+  "title": "East Greenwich RI Elections"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-44003-2016-01-05.zip"
+  division_id: "ocd-division/country:us/state:ri/place:east_greenwich"
+  "user": "noma@democracy.works"
+},
+{
+  "nid": 4073
+  "election_id": 4171
+  "title": "RI Senate District 11"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-44001-2016-01-05.zip"
+  division_id: "ocd-division/country:us/state:ri/sldu:11"
+  "user": "noma@democracy.works"
+},
+{
+  "nid": 4075
+  "election_id": 4248
+  "title": "Foster RI Town Council Special Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-44-2016-02-02.zip"
+  division_id: "ocd-division/country:us/state:ri/place:foster"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4076
+  "election_id": 4181
+  "title": "Louisiana Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-22-2016-03-05.zip"
+  division_id: "ocd-division/country:us/state:la"
+  "user": "noma@democracy.works"
+},
+{
+  "nid": 4077
+  "election_id": 4249
+  "title": "Washington Special Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-53-2016-02-09.zip"
+  division_id: "ocd-division/country:us/state:wa"
+  "user": "noma@democracy.works"
+},
+{
+  "nid": 4078
+  "election_id": 4102
+  "title": "Maine Test"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-23-2016-03-01.zip"
+  division_id: "ocd-division/country:us/state:me"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4080
+  "election_id": 4177
+  "title": "Oklahoma Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-40-2016-03-01.zip"
+  division_id: "ocd-division/country:us/state:ok"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4081
+  "election_id": 4250
+  "title": "New Jersey School Board Special"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-34-2016-01-26.zip"
+  division_id: "ocd-division/country:us/state:nj"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4082
+  "election_id": 4172
+  "title": "South Carolina Republican Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-45001-2016-02-20.zip"
+  division_id: "ocd-division/country:us/state:sc"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4083
+  "election_id": 4182
+  "title": "Idaho Republican Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-16-2016-03-08.zip"
+  division_id: "ocd-division/country:us/state:id"
+  "user": "noma@democracy.works"
+},
+{
+  "nid": 4084
+  "election_id": 4188
+  "title": "North Carolina Primary, Pres. Primary (D) & (R)"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-37-2016-03-15.zip"
+  division_id: "ocd-division/country:us/state:nc"
+  "user": "noma@democracy.works"
+},
+{
+  "nid": 4085
+  "election_id": 4173
+  "title": "South Carolina Democratic Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-45003-2016-02-27.zip"
+  division_id: "ocd-division/country:us/state:sc"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4086
+  "election_id": 4186
+  "title": "Illinois Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-1701-2016-03-15.zip"
+  division_id: "ocd-division/country:us/state:il"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4087
+  "election_id": 4183
+  "title": "Michigan Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-26-2016-03-08.zip"
+  division_id: "ocd-division/country:us/state:mi"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4088
+  "election_id": 4184
+  "title": "Mississippi Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-28-2016-03-08.zip"
+  division_id: "ocd-division/country:us/state:ms"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4089
+  "election_id": 4187
+  "title": "Missouri Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-29-2016-03-15.zip"
+  division_id: "ocd-division/country:us/state:mo"
+  "user": "noma@democracy.works"
+},
+{
+  "nid": 4090
+  "election_id": 4102
+  "title": "SC Test"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-45003-2016-03-01.zip"
+  division_id: "ocd-division/country:us/state:sc"
+  "user": "noma@democracy.works"
+},
+{
+  "nid": 4091
+  "election_id": 4185
+  "title": "Florida Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-12-2016-03-15.zip"
+  division_id: "ocd-division/country:us/state:fl"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4092
+  "election_id": 4200
+  "title": "Rhode Island Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-44-2016-04-26.zip"
+  division_id: "ocd-division/country:us/state:ri"
+  "user": "noma@democracy.works"
+},
+{
+  "nid": 4093
+  "election_id": 4251
+  "title": "Arizona Local Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-4-2016-03-08.zip"
+  division_id: "ocd-division/country:us/state:az"
+  "user": "Maria@democracy.works"
+},
+{
+  "nid": 4094
+  "election_id": 4176
+  "title": "Massachusetts Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-25-2016-03-01.zip"
+  division_id: "ocd-division/country:us/state:ma"
+  "user": "Maria@democracy.works"
+},
+{
+  "nid": 4095
+  "election_id": 4174
+  "title": "Alabama Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-01-2016-03-01.zip"
+  division_id: "ocd-division/country:us/state:al"
+  "user": "Maria@democracy.works"
+},
+{
+  "nid": 4096
+  "election_id": 4252
+  "title": "New Jersey School Board Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-34-2016-03-08.zip"
+  division_id: "ocd-division/country:us/state:nj"
+  "user": "Maria@democracy.works"
+},
+{
+  "nid": 4097
+  "election_id": 4190
+  "title": "Arizona Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-4-2016-03-22.zip"
+  division_id: "ocd-division/country:us/state:az"
+  "user": "Maria@democracy.works"
+},
+{
+  "nid": 4098
+  "election_id": 4189
+  "title": "Ohio Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-3901-2016-03-15.zip"
+  division_id: "ocd-division/country:us/state:oh"
+  "user": "Maria@democracy.works"
+},
+{
+  "nid": 4099
+  "election_id": 4102
+  "title": "NM Test"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-35-2014-11-04.zip"
+  division_id: "ocd-division/country:us/state:nm"
+  "user": "noma@democracy.works"
+},
+{
+  "nid": 4100
+  "election_id": 4253
+  "title": "WA Special"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-53-2016-04-26.zip"
+  division_id: "ocd-division/country:us/state:wa"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4101
+  "election_id": 4201
+  "title": "Indiana Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-18-2016-05-03.zip"
+  division_id: "ocd-division/country:us/state:in"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4102
+  "election_id": 4197
+  "title": "Delaware Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-10-2016-04-26.zip"
+  division_id: "ocd-division/country:us/state:de"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4103
+  "election_id": 4194
+  "title": "Alabama Runoff"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-01-2016-04-12.zip"
+  division_id: "ocd-division/country:us/state:al"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4104
+  "election_id": 4196
+  "title": "Connecticut Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-9-2016-04-26.zip"
+  division_id: "ocd-division/country:us/state:ct"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4105
+  "election_id": 4254
+  "title": "Louisiana Municipal Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-22-2016-04-09.zip"
+  division_id: "ocd-division/country:us/state:la"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4106
+  "election_id": 4951
+  "title": "Virginia General"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:va"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4107
+  "election_id": 4193
+  "title": "Wisconsin Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-55-2016-04-05.zip"
+  division_id: "ocd-division/country:us/state:wi"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4108
+  "election_id": 4102
+  "title": "Rhode Island Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-44001-2016-04-26.zip"
+  division_id: "ocd-division/country:us/state:ri"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4109
+  "election_id": 4195
+  "title": "New York Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-36-2016-04-19.zip"
+  division_id: "ocd-division/country:us/state:ny"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4110
+  "election_id": 4198
+  "title": "Maryland Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-24-2016-04-26.zip"
+  division_id: "ocd-division/country:us/state:md"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4111
+  "election_id": 4199
+  "title": "Pennsylvania Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-42-2016-04-26.zip"
+  division_id: "ocd-division/country:us/state:pa"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4112
+  "election_id": 4255
+  "title": "New Jersey School Board Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-34-2016-04-19.zip"
+  division_id: "ocd-division/country:us/state:nj"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4113
+  "election_id": 4256
+  "title": "Michigan Consolidated Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-26-2016-05-03.zip"
+  division_id: "ocd-division/country:us/state:mi"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4114
+  "election_id": 4226
+  "title": "Utah Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-49-2016-06-28.zip"
+  division_id: "ocd-division/country:us/state:ut"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4115
+  "election_id": 4208
+  "title": "Washington Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-53-2016-05-24.zip"
+  division_id: "ocd-division/country:us/state:wa"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4116
+  "election_id": 4206
+  "title": "Oregon Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-41-2016-05-17.zip"
+  division_id: "ocd-division/country:us/state:or"
+  "user": "noma@democracy.works"
+},
+{
+  "nid": 4117
+  "election_id": 4257
+  "title": "Louisiana Municipal Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-22-2016-05-14.zip"
+  division_id: "ocd-division/country:us/state:la"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4118
+  "election_id": 4258
+  "title": "North Carolina Congressional Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-37-2016-06-07.zip"
+  division_id: "ocd-division/country:us/state:nc"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4119
+  "election_id": 4209
+  "title": "California Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06-2016-06-07.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  "user": "noma@democracy.works"
+},
+{
+  "nid": 4120
+  "election_id": 4259
+  "title": "New Jersey Municipal Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-34-2016-05-10.zip"
+  division_id: "ocd-division/country:us/state:nj"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4121
+  "election_id": 4205
+  "title": "Kentucky Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-21-2016-05-17.zip"
+  division_id: "ocd-division/country:us/state:ky"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4122
+  "election_id": 4260
+  "title": "Virginia Local Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51-2016-05-03.zip"
+  division_id: "ocd-division/country:us/state:va"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4123
+  "election_id": 4951
+  "title": "Virginia Local Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51-2016-05-03.zip"
+  division_id: "ocd-division/country:us/state:va"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4124
+  "election_id": 4219 
+  "title": "North Dakota Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-38-2016-06-14.zip"
+  division_id: "ocd-division/country:us/state:nd"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4125
+  "election_id": 4202 
+  "title": "Nebraska Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-31-2016-05-10.zip"
+  division_id: "ocd-division/country:us/state:ne"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4126
+  "election_id": 4211  
+  "title": "Montana Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-30-2016-06-07.zip"
+  division_id: "ocd-division/country:us/state:mt"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4127
+  "election_id": 4203  
+  "title": "West Virginia Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-54-2016-05-10.zip"
+  division_id: "ocd-division/country:us/state:wv"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4128
+  "election_id": 4215  
+  "title": "DC Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-11-2016-06-14.zip"
+  division_id: "ocd-division/country:us/state:dc"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4130
+  "election_id": 4262  
+  "title": "Ohio Special Congressional Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-3901-2016-06-07.zip"
+  division_id: "ocd-division/country:us/state:oh"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4131
+  "election_id": 4221  
+  "title": "Virginia Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51-2016-06-14.zip"
+  division_id: "ocd-division/country:us/state:va"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4132
+  "election_id": 4209 
+  "title": "California Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-uploaded-feeds/vipFeed-06037-2016-06-07.zip"
+  division_id: "ocd-division/country:us/state:ca/place:los_angeles"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4133
+  "election_id": 4263 
+  "title": "Long Beach City Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-uploaded-feeds/vipFeed-06039-2016-06-07-LB.zip"
+  division_id: "ocd-division/country:us/state:ca/place:long_beach"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4134
+  "election_id": 4261  
+  "title": "Arizona Special Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-04-2016-05-17.zip"
+  division_id: "ocd-division/country:us/state:az"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4135
+  "election_id": 4204 
+  "title": "Idaho Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-16-2016-05-17.zip"
+  division_id: "ocd-division/country:us/state:id"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4136
+  "election_id": 4210  
+  "title": "Iowa Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-19-2016-06-07.zip"
+  division_id: "ocd-division/country:us/state:ia"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4137
+  "election_id": 4207
+  "title": "Texas Statewide Runoff"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48-2016-05-24.zip"
+  division_id: "ocd-division/country:us/state:tx"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4138
+  "election_id": 4218  
+  "title": "Nevada Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-32-2016-06-14.zip"
+  division_id: "ocd-division/country:us/state:nv"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4139
+  "election_id": 4212 
+  "title": "New Jersey Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-34-2016-06-07.zip"
+  division_id: "ocd-division/country:us/state:nj"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4140
+  "election_id": 4209 
+  "title": "California Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-060001-2016-06-07.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4141
+  "election_id": 4213 
+  "title": "New Mexico Presidential Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-35-2016-06-07.zip"
+  division_id: "ocd-division/country:us/state:nm"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4142
+  "election_id": 4951  
+  "title": "Virginia Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51-2016-06-14.zip"
+  division_id: "ocd-division/country:us/state:va"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4143
+  "election_id": 4220 
+  "title": "South Carolina Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-45-2016-06-14.zip"
+  division_id: "ocd-division/country:us/state:sc"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4144
+  "election_id": 4224 
+  "title": "Oklahoma Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-40-2016-06-28.zip"
+  division_id: "ocd-division/country:us/state:ok"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4145
+  "election_id": 4222 
+  "title": "Colorado Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-08-2016-06-28.zip"
+  division_id: "ocd-division/country:us/state:co"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4146
+  "election_id": 4232
+  "title": "Minnesota Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-27-2016-08-09.zip"
+  division_id: "ocd-division/country:us/state:mn"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4147
+  "election_id": 4233
+  "title": "Vermont Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-uploaded-feeds/vipFeed-50-2016-08-09.zip"
+  vip_version: "5.1"
+  division_id: "ocd-division/country:us/state:vt"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4034
+  "election_id": 4102
+  "title": "TX Test - D"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-04804-2016-05-24.zip"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4148
+  "election_id": 2000
+  "title": "TX Test - R"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-04818-2016-05-24.zip"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4150
+  "election_id": 4236
+  "title": "Alaska Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-02-2016-08-16.zip"
+  division_id: "ocd-division/country:us/state:ak"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4151
+  "election_id": 4237 
+  "title": "Wyoming Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-56001-2016-08-16.zip"
+  division_id: "ocd-division/country:us/state:wy"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4152
+  "election_id": 4264
+  "title": "Washington Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-53-2016-08-02.zip"
+  division_id: "ocd-division/country:us/state:wa"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4153
+  "election_id": 4265
+  "title": "Louisiana Special Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-22-2016-08-06.zip"
+  division_id: "ocd-division/country:us/state:la/sldl:85"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4154
+  "election_id": 4229
+  "title": "Missouri Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-29001-2016-08-02.zip"
+  division_id: "ocd-division/country:us/state:mo"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4155
+  "election_id": 4227
+  "title": "Kansas Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-20-2016-08-02.zip"
+  division_id: "ocd-division/country:us/state:ks"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4156
+  "election_id": 5000
+  "title": "South Carolina General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-45-South-Carolina-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:sc"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4157
+  "election_id": 4102
+  "title": "TX Test - Bexar"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48029-2016-05-24.zip"
+  "user": "noma.daisy@gmail.com"
+},
+{
+  "nid": 4158
+  "election_id": 4228
+  "title": "Michigan Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-26-2016-08-02.zip"
+  division_id: "ocd-division/country:us/state:mi"
+  "user": "maria@democracy.works"
+},
+data{
+  "nid": 4159
+  "election_id": 4244
+  "title": "Rhode Island Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-44-2016-09-13.zip"
+  division_id: "ocd-division/country:us/state:ri"
+  "user": "franklin@democracy.works"
+},
+{
+  "nid": 4160
+  "election_id": 4102
+  "title": "Michigan Primary Test"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-26001-2016-08-02.zip"
+  division_id: "ocd-division/country:us/state:mi"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4161
+  "election_id": 4238
+  "title": "Oklahoma Run-off"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-40-2016-08-23.zip"
+  division_id: "ocd-division/country:us/state:ok"
+  "user": "franklin@democracy.works"
+},
+{
+  "nid": 4162
+  "election_id": 5000
+  "title": "Virginia General"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51-VA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:va"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4163
+  "election_id": 4102
+  "title": "Jefferson County TX Test"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48245-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4164
+  "election_id": 4234
+  "title": "Wisconsin Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-55-2016-08-09.zip"
+  division_id: "ocd-division/country:us/state:wi"
+  "user": "franklin@democracy.works"
+},
+{
+  "nid": 4165
+  "election_id": 4241
+  "title": "Delaware Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-10-2016-09-13.zip"
+  division_id: "ocd-division/country:us/state:de"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4166
+  "election_id": 4231
+  "title": "Connecticut Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-09-2016-08-09.zip"
+  division_id: "ocd-division/country:us/state:ct"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4167
+  "election_id": 5000
+  "title": "Nevada General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-32001-Nevada-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:nv"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4168
+  "election_id": 4240
+  "title": "Florida Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-12-2016-08-30.zip"
+  division_id: "ocd-division/country:us/state:fl"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4169
+  "election_id": 5000
+  "title": "Indiana General"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-18-Indiana-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:in"
+  "user": "franklin@democracy.works"
+},
+{
+  "nid": 4170
+  "election_id": 5000
+  "title": "Alabama General"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-01-State-of-ALABAMA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:al"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4171
+  "election_id": 4235
+  "title": "Hawaii Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-15-2016-08-13.zip"
+  division_id: "ocd-division/country:us/state:hi"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4172
+  "election_id": 4239
+  "title": "Arizona Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-04-2016-08-30.zip"
+  division_id: "ocd-division/country:us/state:az"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4173
+  "election_id": 5000
+  "title": "Washington General"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-53-Washington-2016-11-08-fake.zip"
+  division_id: "ocd-division/country:us/state:wa"
+  "user": "franklin@democracy.works"
+},
+{
+  "nid": 4174
+  "election_id": 4243
+  "title": "New York Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-36-2016-09-13.zip"
+  division_id: "ocd-division/country:us/state:ny"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": -989
+  "election_id": 5000
+  "title": "Minnesota General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-27-Minnesota-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:mn"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "kathryn@democracy.works"
+},
+{
+  "nid": -990
+  "election_id": 5000
+  "title": "Kansas General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-20-Kansas-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ks"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "kathryn@democracy.works"
+},
+{
+  "nid": 4175
+  "election_id": 4266
+  "title": "Idaho Special Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-16-2016-08-30.zip"
+  division_id: "ocd-division/country:us/state:id"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": -991
+  "election_id": 5000
+  "title": "New Jersey General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-34-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:nj"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": -992
+  "election_id": 5000
+  "title": "Hawaii General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-15-Hawaii-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:hi"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": -993
+  "election_id": 5000
+  "title": "South Dakota General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-46-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:sd"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": -994
+  "election_id": 5000
+  "title": "Wyoming General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-56-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:wy"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": -995
+  "election_id": 5000
+  "title": "Montana General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-30-Montana-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:mt"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": -996
+  "election_id": 5000
+  "title": "Nebraska General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-31-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ne"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": -997
+  "election_id": 5000
+  "title": "North Dakota General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-38-North-Dakota-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:nd"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": -998
+  "election_id": 5000
+  "title": "Ohio General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-39-Ohio-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:oh"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": 4176
+  "election_id": 5000
+  "title": "Iowa General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-19-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ia"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4177
+  "election_id": 5000
+  "title": "Vermont General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-50-VERMONT-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:vt"
+  vip_version: "5.1"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4178
+  "election_id": 5000
+  "title": "Montana General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-30-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:mt"
+  vip_version: "3.0"
+  "user": "franklin@democracy.works"
+},
+{
+  "nid": 4179
+  "election_id": 5000
+  "title": "Minnesota General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-27-State-of-Minnesota-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:mn"
+  vip_version: "3.0"
+  "user": "franklin@democracy.works"
+},
+{
+  "nid": 4180
+  "election_id": 5000
+  "title": "Texas General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48-Texas-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx"
+  vip_version: "3.0"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4181
+  "election_id": 5000
+  "title": "DC General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-11-District-of-Columbia-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:dc"
+  vip_version: "3.0"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4182
+  "election_id": 4245
+  "title": "Massachusetts Primary"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-25-2016-09-08.zip"
+  division_id: "ocd-division/country:us/state:ma"
+  vip_version: "3.0"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": -999
+  "election_id": 5000
+  "title": "Arkansas General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-05-Arkansas-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ar"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": 4183
+  "election_id": 5000
+  "title": "Nebraska General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-31-State-of-Nebraska-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ne"
+  vip_version: "3.0"
+  "user": "franklin@democracy.works"
+},
+{
+  "nid": -1000
+  "election_id": 5000
+  "title": "Indiana General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-18-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:in"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": -1001
+  "election_id": 5000
+  "title": "Maine General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-23-Maine-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:me"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": -1002
+  "election_id": 5000
+  "title": "California General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-06-California-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": 4184
+  "election_id": 5000
+  "title": "Illinois General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-17001-IL-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:il"
+  vip_version: "3.0"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4185
+  "election_id": 5000
+  "title": "Wisconsin General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-55-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:wi"
+  vip_version: "3.0"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4186
+  "election_id": 5000
+  "title": "North Dakota General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-38-North-Dakota-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:nd"
+  vip_version: "3.0"
+  "user": "franklin@democracy.works"
+},
+{
+  "nid": 4187
+  "election_id": 5000
+  "title": "Los Angeles County General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06037-California-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:los_angeles"
+  vip_version: "3.0"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4188
+  "election_id": 5000
+  "title": "Colorado General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-08-Colorado-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:co"
+  vip_version: "3.0"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": -1003
+  "election_id": 5000
+  "title": "Iowa General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-19-Iowa-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ia"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": -1004
+  "election_id": 5000
+  "title": "Illinois General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-17-Illinois-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:il"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": -1005
+  "election_id": 5000
+  "title": "Nevada General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-32-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:nv"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": 4189
+  "election_id": 5000
+  "title": "Kansas General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-20-State-of-Kansas-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ks"
+  vip_version: "3.0"
+  "user": "franklin@democracy.works"
+},
+{
+  "nid": 4190
+  "election_id": 5000
+  "title": "Utah General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-49-Utah-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ut"
+  vip_version: "3.0"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4191
+  "election_id": 5000
+  "title": "North Carolina General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-37-North-Carolina-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:nc"
+  vip_version: "5.1"
+  "user": "franklin@democracy.works"
+},
+{
+  "nid": -1006
+  "election_id": 5000
+  "title": "Texas General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-48-Texas-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": 4192
+  "election_id": 5000
+  "title": "Wyoming General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-56-STATE-OF-WYOMING-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:wy"
+  vip_version: "3.0"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": -1007
+  "election_id": 5000
+  "title": "Arizona General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-04-Arizona-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:az"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": -1008
+  "election_id": 5000
+  "title": "Tennessee General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-47-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tn"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": 4193
+  "election_id": 5000
+  "title": "Delaware General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-10-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:de"
+  vip_version: "3.0"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4194
+  "election_id": 5000
+  "title": "Pennsylvania General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-42-Pennsylvania-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:pa"
+  vip_version: "3.0"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4195
+  "election_id": 5000
+  "title": "Michigan General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-26-MICHIGAN-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:mi"
+  vip_version: "5.1"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": -1009
+  "election_id": 5000
+  "title": "Georgia General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-13-Georgia-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ga"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": 4196
+  "election_id": 5000
+  "title": "Louisiana General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-22-LOUISIANA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:la"
+  vip_version: "3.0"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4197
+  "election_id": 4102
+  "title": "Virginia Test Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51-VA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:va"
+  vip_version: "3.0"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4198
+  "election_id": 5000
+  "title": "Alaska General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-02-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ak"
+  vip_version: "3.0"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4199
+  "election_id": 5000
+  "title": "Missouri General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-29-STATE-OF-MISSOURI-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:mo"
+  vip_version: "3.0"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4200
+  "election_id": 5000
+  "title": "Maryland General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-24001-maryland-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:md"
+  vip_version: "3.0"
+  "user": "franklin@democracy.works"
+},
+{
+  "nid": 4201
+  "election_id": 5000
+  "title": "Connecticut General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-09-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ct"
+  vip_version: "3.0"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4202
+  "election_id": 5000
+  "title": "New Jersey General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-34-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:nj"
+  vip_version: "3.0"
+  "user": "danny@democracy.works"
+},
+{
+  "nid": 4203
+  "election_id": 5000
+  "title": "Oregon General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-41-OREGON-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:or"
+  vip_version: "3.0"
+  "user": "franklin@democracy.works"
+},
+{
+  "nid": 4204
+  "election_id": 5000
+  "title": "Rhode Island General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-44-Rhode-Island-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ri"
+  vip_version: "3.0"
+  "user": "franklin@democracy.works"
+},
+{
+  "nid": -1010
+  "election_id": 5000
+  "title": "New Hampshire General Election"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-33-New-Hampshire-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:nh"
+  vip_version: "5.1"
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": 4205
+  "election_id": 5000
+  "title": "Mississippi General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-28-Mississippi-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ms"
+  vip_version: "3.0"
+  "user": "franklin@democracy.works"
+},
+{
+  "nid": 4206
+  "election_id": 4102
+  "title": "Louisiana 5.1 Test"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipFeed-22-2016-09-17_51.zip"
+  division_id: "ocd-division/country:us/state:la"
+  vip_version: "5.1"
+  "user": "franklin@democracy.works"
+},
+{
+  "nid": 4207
+  "election_id": 5000
+  "title": "Oklahoma General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-40-OKLAHOMA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ok"
+  vip_version: "3.0"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": 4208
+  "election_id": 5000
+  "title": "Kentucky General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-21-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ky"
+  vip_version: "3.0"
+  "user": "shannon@democracy.works"
+},
+{
+"nid": 4209
+election_id: 5000
+"title": "Nevada General Election"
+"feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-32-Nevada-2016-11-08.zip"
+division_id: "ocd-division/country:us/state:nv"
+vip_version: "3.0"
+"user": "maria@democracy.works"
+},
+{
+  "nid": -1011
+  "election_id": 5000
+  "title": "Maryland General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-24-Maryland-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:md"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": -1012
+  "election_id": 5000
+  "title": "Wisconsin General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-55-Wisconsin-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:wi"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": -1013
+  "election_id": 5000
+  "title": "Wisconsin General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-02-Alaska-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ak"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": -1014
+  "election_id": 5000
+  "title": "District of Columbia General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-11-2016-11-08.zip"
+  division_id: "ocd-division/country:us/district:dc"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": -1015
+  "election_id": 5000
+  "title": "Louisiana General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-22-Louisiana-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:la"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": 4210
+  "election_id": 5000
+  "title": "New York General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-36-New-York-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ny"
+  vip_version: "3.0"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4211
+  "election_id": 5000
+  "title": "Florida General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-12002-Florida-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:fl"
+  vip_version: "3.0"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": -1016
+  "election_id": 5000
+  "title": "Idaho General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-16-Idaho-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:id"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": -1017
+  "election_id": 5000
+  "title": "New Mexico General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-35-New-Mexico-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:nm"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": -1018
+  "election_id": 5000
+  "title": "Washington General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-53-Washington-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:wa"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": 4212
+  "election_id": 5000
+  "title": "Ohio General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-39-Ohio-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:oh"
+  vip_version: "3.0"
+  "user": "maria@democracy.works"
+},
+{
+  "nid": -1019
+  "election_id": 5000
+  "title": "Colorado General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-08-Colorado-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:co"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": -1020
+  "election_id": 5000
+  "title": "Florida General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-12-Florida-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:fl"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": 4213
+  "election_id": 5000
+  "title": "New Mexico General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-35-State-of-NEW-MEXICO-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:nm"
+  vip_version: "3.0"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4214
+  "election_id": 5000
+  "title": "Amador County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06005-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:amador"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4215
+  "election_id": 5000
+  "title": "Butte County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06007-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:butte"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4216
+  "election_id": 5000
+  "title": "Calaveras County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06009-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:calaveras"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4217
+  "election_id": 5000
+  "title": "Colusa County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06011-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:colusa"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4218
+  "election_id": 5000
+  "title": "Contra Costa County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06013-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:contra_costa"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4219
+  "election_id": 5000
+  "title": "Del Norte County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06015-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:del_norte"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4220
+  "election_id": 5000
+  "title": "El Dorado County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06017-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:el_dorado"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4221
+  "election_id": 5000
+  "title": "Fresno County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06019-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:fresno"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4222
+  "election_id": 5000
+  "title": "Glenn County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06021-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:glenn"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4223
+  "election_id": 5000
+  "title": "Imperial County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06025-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:imperial"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4224
+  "election_id": 5000
+  "title": "Inyo County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06027-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:inyo"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4225
+  "election_id": 5000
+  "title": "Kern County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06029-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:kern"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4226
+  "election_id": 5000
+  "title": "Kings County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06031-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:kings"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4227
+  "election_id": 5000
+  "title": "Lake County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06033-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:lake"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4228
+  "election_id": 5000
+  "title": "Madera County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06039-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:madera"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4229
+  "election_id": 5000
+  "title": "Marin County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06041-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:marin"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4230
+  "election_id": 5000
+  "title": "Merced County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06047-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:merced"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4231
+  "election_id": 5000
+  "title": "Modoc County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06049-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:modoc"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4232
+  "election_id": 5000
+  "title": "Mono County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06051-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:mono"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4233
+  "election_id": 5000
+  "title": "Monterey County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06053-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:monterey"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4234
+  "election_id": 5000
+  "title": "Napa County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06055-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:napa"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4235
+  "election_id": 5000
+  "title": "Orage County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06059-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:orange"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4236
+  "election_id": 5000
+  "title": "Placer County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06061-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:placer"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4237
+  "election_id": 5000
+  "title": "Riverside County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06065-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:riverside"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4238
+  "election_id": 5000
+  "title": "Sacramento County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06067-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:sacramento"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4239
+  "election_id": 5000
+  "title": "San Bernardino County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06071-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:san_bernardino"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4240
+  "election_id": 5000
+  "title": "San Diego County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06073-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:san_diego"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4241
+  "election_id": 5000
+  "title": "San Francisco County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06075-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:san_francisco"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4242
+  "election_id": 5000
+  "title": "San Luis Obispo County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06079-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:san_luis_obispo"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4243
+  "election_id": 5000
+  "title": "San Mateo County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06081-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:san_mateo"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4244
+  "election_id": 5000
+  "title": "Santa Barbara County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06083-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:santa_barbara"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4245
+  "election_id": 5000
+  "title": "Santa Clara County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06085-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:santa_clara"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4246
+  "election_id": 5000
+  "title": "Santa Cruz County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06087-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:santa_cruz"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4247
+  "election_id": 5000
+  "title": "Shasta County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06089-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:shasta"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4248
+  "election_id": 5000
+  "title": "Siskiyou County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06093-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:siskiyou"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4249
+  "election_id": 5000
+  "title": "Solano County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06095-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:solano"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4250
+  "election_id": 5000
+  "title": "Stanislaus County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06099-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:stanislaus"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4251
+  "election_id": 5000
+  "title": "Tehama County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06103-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:tehama"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4252
+  "election_id": 5000
+  "title": "Trinity County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06105-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:trinity"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4253
+  "election_id": 5000
+  "title": "Tulare County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06107-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:tulare"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4254
+  "election_id": 5000
+  "title": "Ventura County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06111-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:ventura"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4255
+  "election_id": 5000
+  "title": "Yolo County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06113-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:yolo"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4256
+  "election_id": 5000
+  "title": "Yuba County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06115-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:yuba"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4257
+  "election_id": 5000
+  "title": "Alameda County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06001-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:alameda"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": -1021
+  "election_id": 5000
+  "title": "Pima County AZ General Election"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-04019-Pima-County-Arizona-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:az/county:pima"
+  vip_version: "5.1"
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": 4258
+  "election_id": 5000
+  "title": "Hawaii General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-15-Hawaii-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:hi"
+  vip_version: "3.0"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": -1022
+  "election_id": 5000
+  "title": "West Virginia General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-54-West-Virginia-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:wv"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": 4259
+  "election_id": 5000
+  "title": "West Virginia General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-54-WEST-VIRGINIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:wv"
+  vip_version: "3.0"
+  "user": "maria@democracy.works"
+},
+{
+ "nid": 4260
+ "election_id": 5000
+ "title": "Maricopa County AZ General Election"
+ "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-04013-ARIZONA-2016-11-08.zip"
+ division_id: "ocd-division/country:us/state:az/county:maricopa"
+ vip_version: "3.0"
+ "user": "szelena@democracy.works"
+},
+{
+ "nid": 4261
+ "election_id": 5000
+ "title": "Arizona General Election"
+ "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-04-ARIZONA-2016-11-08.zip"
+ division_id: "ocd-division/country:us/state:az"
+ vip_version: "3.0"
+ "user": "szelena@democracy.works"
+},
+{
+  "nid": -1023
+  "election_id": 5000
+  "title": "Tennessee General Election"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-47001-Tennessee-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tn"
+  vip_version: "5.1"
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": -1024
+  "election_id": 5000
+  "title": "Massachusetts General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-25-Massachusetts-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ma"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": -1025
+  "election_id": 5000
+  "title": "Georgia General Election"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-13001-Georgia-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ga"
+  vip_version: "5.1"
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": 4262
+  "election_id": 5000
+  "title": "Humboldt County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06023-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:humboldt"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4263
+  "election_id": 5000
+  "title": "Lassen County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06035-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:lassen"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4264
+  "election_id": 5000
+  "title": "San Benito County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06069-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:san_benito"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4265
+  "election_id": 5000
+  "title": "San Joaquin County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06077-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:san_joaquin"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4266
+  "election_id": 5000
+  "title": "Sonoma County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06097-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:sonoma"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4267
+  "election_id": 5000
+  "title": "Sutter County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06101-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:sutter"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": -1026
+  "election_id": 5000
+  "title": "South Dakota General Election"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-46001-South-Dakota-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:sd"
+  vip_version: "5.1"
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": 4268
+  "election_id": 5000
+  "title": "Mariposa County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06043-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:mariposa"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4269
+  "election_id": 5000
+  "title": "Tuolumne County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06109-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:tuolomne"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4270
+  "election_id": 5000
+  "title": "Mendocino County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06045-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:mendocino"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": -1027
+  "election_id": 5000
+  "title": "Arkansas General Election"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-050001-Arkansas-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ar"
+  vip_version: "5.1"
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": 4271
+  "election_id": 5000
+  "title": "Wichita County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48485-Texas-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:wichita"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4272
+  "election_id": 5000
+  "title": "Wood County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48499-Texas-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:wood"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4273
+  "election_id": 5000
+  "title": "Alpine County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06003-California-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:alpine"
+  "user": "kathryn@democracy.works"
+},
+{
+  "nid": 4274
+  "election_id": 5000
+  "title": "Massachusetts General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-25-Massachusetts-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ma"
+  vip_version: "3.0"
+  "user": "shannon@democracy.works"
+},
+{
+  "nid": 4275
+  "election_id": 5000
+  "title": "Idaho General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-16-IDAHO-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:id"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4276
+  "election_id": 5000
+  "title": "Bastrop County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48021-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:bastrop"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4277
+  "election_id": 5000
+  "title": "Denton County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48121-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:denton"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4278
+  "election_id": 5000
+  "title": "Guadalupe County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48187-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:guadalupe"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4279
+  "election_id": 5000
+  "title": "Midland County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48329-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:midland"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4280
+  "election_id": 5000
+  "title": "Williamson County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48491-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:williamson"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4281
+  "election_id": 5000
+  "title": "Bell County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48027-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:bell"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4282
+  "election_id": 5000
+  "title": "Ector County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48135-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:ector"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4283
+  "election_id": 5000
+  "title": "Henderson County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48213-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:henderson"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4284
+  "election_id": 5000
+  "title": "Smith County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48423-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:smith"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4285
+  "election_id": 5000
+  "title": "Bexar County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48029-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:bexar"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4286
+  "election_id": 5000
+  "title": "Ellis County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48139-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:ellis"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4287
+  "election_id": 5000
+  "title": "Hidalgo County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48215-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:hidalgo"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4288
+  "election_id": 5000
+  "title": "Tarrant County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48439-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:tarrant"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4289
+  "election_id": 5000
+  "title": "El Paso County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48141-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:elpaso"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4290
+  "election_id": 5000
+  "title": "Kaufman County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48257-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:kaufman"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4291
+  "election_id": 5000
+  "title": "Taylor County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48441-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:taylor"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4292
+  "election_id": 5000
+  "title": "Collin County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48085-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:collin"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4293
+  "election_id": 5000
+  "title": "Erath County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48143-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:erath"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4294
+  "election_id": 5000
+  "title": "Lubbock County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48303-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:taylor"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4295
+  "election_id": 5000
+  "title": "Waller County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48473-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:waller"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4296
+  "election_id": 5000
+  "title": "Dallas County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48113-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:dallas"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4297
+  "election_id": 5000
+  "title": "Fort Bend County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48157-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:fortbend"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4298
+  "election_id": 5000
+  "title": "Webb County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48479-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:webb"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4299
+  "election_id": 5000
+  "title": "Plumas County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06063-California-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:plumas"
+  vip_version: "3.0"
+  "user": "kathryn@democracy.works"
+},
+{
+  "nid": 4300
+  "election_id": 5000
+  "title": "Sierra County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06091-California-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:sierra"
+  vip_version: "3.0"
+  "user": "kathryn@democracy.works"
+},
+{
+  "nid": 4301
+  "election_id": 5000
+  "title": "Travis County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48453-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:travis"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4302
+  "election_id": 5000
+  "title": "Montgomery County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48339-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:montgomery"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4303
+  "election_id": 5000
+  "title": "Jefferson County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48245-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:jefferson"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4304
+  "election_id": 5000
+  "title": "Cameron County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48061-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:cameron"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": 4305
+  "election_id": 5000
+  "title": "McLennan County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48309-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:mclennan"
+  vip_version: "3.0"
+  "user": "szelena@democracy.works"
+},
+{
+  "nid": -1028
+  "election_id": 5000
+  "title": "Oklahoma General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-40-Oklahoma-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ok"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+},
+{
+  "nid": 4306
+  "election_id": 5000
+  "title": "Nevada County CA General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06057-California-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:nevada"
+  vip_version: "3.0"
+  "user": "kathryn@democracy.works"
+},
+{
+  "nid": 4307
+  "election_id": 5000
+  "title": "Motley County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48345-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:motley"
+  vip_version: "3.0"
+  "user": "steve@democracy.works"
+},
+{
+  "nid": 4308
+  "election_id": 5000
+  "title": "Tom Green County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48451-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:tom_green"
+  vip_version: "3.0"
+  "user": "steve@democracy.works"
+},
+{
+  "nid": -1029
+  "election_id": 5000
+  "title": "Rockwall County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-48397-Rockwall-County-Texas-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:rockwall"
+  vip_version: "5.1"
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": -1030
+  "election_id": 5000
+  "title": "Hays County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-48209-Hays-County-Texas-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:hays"
+  vip_version: "5.1"
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": -1031
+  "election_id": 5000
+  "title": "Gregg County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-48183-Gregg-County-Texas-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:gregg"
+  vip_version: "5.1"
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": -1032
+  "election_id": 5000
+  "title": "Upton County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-48461-Upton-County-Texas-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:upton"
+  vip_version: "5.1"
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": -1033
+  "election_id": 5000
+  "title": "Nueces County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-48355-Nueces-County-Texas-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:nueces"
+  vip_version: "5.1"
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": -1034
+  "election_id": 5000
+  "title": "Harris County TX General Election"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-48201-Harris-County-Texas-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:harris"
+  vip_version: "5.1"
+  "user": "aaron@democracy.works"
+},
+{
+  "nid": -1035
+  "election_id": 5000
+  "title": "Utah General Early Voting"
+  "feed_url": "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-29-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ut"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  "user": "danny@democracy.works"
+}
+]
