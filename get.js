@@ -3,7 +3,7 @@ var jsonfile = require('jsonfile');
 var Curl = require('node-libcurl').Curl;
 var path = require('path');
 
-var inputFile = "datafeed.json"
+var inputFile = "latest.json" // "datafeed.json"
 var datafeed = JSON.parse(fs.readFileSync(inputFile, 'utf8'));
 
 datafeed.forEach(d => {

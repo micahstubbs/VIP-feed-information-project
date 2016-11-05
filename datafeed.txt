@@ -3801,6 +3801,72 @@ data {
   user: "danny@democracy.works"
 }
 
+## Utah General Test
+data {
+  nid: 4309
+  election_id: 4102
+  title: "Utah General Test"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-49001-Utah-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ut"
+  user: "shannon@democracy.works"
+}
+
+## Tarrant County TX General Election
+data {
+  nid: 4310
+  election_id: 5000
+  title: "Montgomery County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48439-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:tarrant"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Vermont General - Unofficial
+data {
+  nid: -1036
+  election_id: 5000
+  title: "Vermont General - Unofficial"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-50001-Vermont-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:vt"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: false
+  user: "franklin@democracy.works"
+}
+
+## Pima County AZ General Election
+data {
+  nid: 4311
+  election_id: 5000
+  title: "Pima County General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-04019-ARIZONA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:az/county:pima"
+  vip_version: "3.0"
+  user: "maria@democracy.works"
+}
+
+## Maine - General Election
+data {
+  nid: -1037
+  election_id: 5000
+  title: "Maine General Election"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-230001-Maine-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:me"
+  vip_version: "5.1"
+  user: "aaron@democracy.works"
+}
+
+## Arkansas General Supplemental Feed
+data {
+nid: -1038
+election_id: 5000
+title: "Arkansas General Supplement"
+feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-05002-Arkansas-2016-11-08.zip"
+division_id: "ocd-division/country:us/state:ar"
+vip_version: "5.1"
+user: "katy@democracy.works"
+}
+
 ##lowest nid: -1035
 ##highest nid: 4308
 ##highest election_id: 4266

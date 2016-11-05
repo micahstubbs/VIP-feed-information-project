@@ -1,15 +1,11 @@
 goal is to take text input from datafeed.txt and
 use sublime text regex find and replace to create valid json
 
-^\n
-remove blank lines
-http://stackoverflow.com/a/12009505/1732222
-
 ^#.*
 remove comment lines
 
 ^\n
-remove blank lines again
+remove blank lines
 http://stackoverflow.com/a/12009505/1732222
 
 data\s
@@ -37,7 +33,7 @@ replace
 find
 title:
 replace
-"title:"
+"title":,
 
 find
 feed_url:
