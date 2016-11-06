@@ -1,0 +1,2045 @@
+[
+  <pollinglocation id="poll10322377">
+    <addressline>1288 W RIVER ROAD, Tucson, AZ 85704</addressline>
+    <hours>
+        <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho11230281</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>, 
+  <pollinglocation id="poll10324605">
+    <addressline>2160 N 6TH AVENUE, Tucson, AZ 85705</addressline>
+    <hours>
+        <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho87626634</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>, 
+  <pollinglocation id="poll10644801">
+    <addressline>10111 E OLD SPANISH TRAIL, Tucson, AZ 85748</addressline>
+    <hours>
+        <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho32372365</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>, 
+  <pollinglocation id="poll12380998">
+    <addressline>8701 E OLD SPANISH TRAIL, Tucson, AZ 85710</addressline>
+    <hours>
+        <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho12854614</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll13069728">
+    <addressline>15921 S HOUGHTON ROAD, Tucson, AZ 85641</addressline>
+    <hours>
+        <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho89009010</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll14532360">
+      <addressline>1145 E FORT LOWELL ROAD, Tucson, AZ 85719</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho17329549</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll15077059">
+    <addressline>241 N HARRISON ROAD, Tucson, AZ 85748</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho43803275</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll15094272">
+    <addressline>11075 N ORACLE ROAD, Tucson, AZ 85737</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho48626631</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll15282471">
+    <addressline>5350 E 16TH ST, Tucson, AZ 85711</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho761435</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll15384074">
+    <addressline>WEST HIGHWAY 86, ROUTE 21, Tucson, AZ 85741</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho99775363</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll1562750">
+    <addressline>2848 N MOUNTAIN AVENUE, Tucson, AZ 85719</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho98767332</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll16596273">
+    <addressline>10770 E BILBY ROAD, Tucson, AZ 85747</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho88822341</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll16774954">
+    <addressline>5770 E PIMA STREET, Tucson, AZ 85712</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho98201494</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll16938455">
+    <addressline>3301 W OVERTON ROAD, Tucson, AZ 85742</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho52460153</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll17019844">
+    <addressline>2695 N HOUGHTON ROAD, Tucson, AZ 85749</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho18784308</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll17277861">
+    <addressline>4108 E NORTH STREET, Tucson, AZ 85712</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho70844800</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll17573089">
+    <addressline>9755 N LA CHOLLA BOULEVARD, Tucson, AZ 85742</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho42622572</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll18598735">
+    <addressline>6809 S CARDINAL AVENUE, Tucson, AZ 85746</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho98269219</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll18694260">
+    <addressline>3295 W SPEEDWAY BOULEVARD, Tucson, AZ 85745</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho2678908</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll18777035">
+    <addressline>6670 S VALLEY INDIAN AGENCY ROAD, Tucson, AZ 85746</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho10509466</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll18843621">
+    <addressline>10094 W MCGEE RANCH ROAD, Tucson, AZ 85629</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho38153486</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll1889027">
+    <addressline>2300 N TANQUE VERDE LOOP, BLDG 1, Tucson, AZ 85749</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho32454188</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll18983804">
+    <addressline>7007 E TANQUE VERDE ROAD, Tucson, AZ 85715</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho8267491</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll19560217">
+    <addressline>1075 S 10TH AVENUE, Tucson, AZ 85701</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho36286942</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll20489277">
+    <addressline>1019 E 31ST STREET, Tucson, AZ 85713</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho30106663</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll20849916">
+    <addressline>450 S TUCSON BOULEVARD, Tucson, AZ 85716</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho36920033</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll20964379">
+    <addressline>10170 S WHITE LIGHTNING LANE, Tucson, AZ 85641</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho61860978</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll21121839">
+    <addressline>4502 S 12TH AVENUE, Tucson, AZ 85714</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho55431912</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll21263721">
+    <addressline>5605 E RIVER ROAD, #105, Tucson, AZ 85750</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho30725142</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll21275205">
+    <addressline>2875 E SAHUARITA ROAD, Tucson, AZ 85629</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho80002306</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll21330162">
+    <addressline>5000 W ARIVACA ROAD, Tucson, AZ 85645</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho42140905</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll21331397">
+    <addressline>5245 N CAMINO DE OESTE, Tucson, AZ 85745</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho66552305</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll2165807">
+    <addressline>2331 E ADAMS STREET, Tucson, AZ 85719</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho46808939</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll22077656">
+    <addressline>5615 N SANDERS ROAD, Tucson, AZ 85743</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho5842392</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll221291">
+    <addressline>1377 N CATALINA AVENUE, Tucson, AZ 85712</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho11249796</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll22478618">
+    <addressline>101 W RIVER ROAD, Tucson, AZ 85704</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho24347780</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll22834866">
+    <addressline>2710 N SABINO CANYON ROAD, Tucson, AZ 85715</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho85596807</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll22854027">
+    <addressline>775 W ROGER ROAD, Tucson, AZ 85705</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho3707902</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll22993028">
+    <addressline>4724 S 12TH AVENUE, Tucson, AZ 85714</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho94686961</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll23035440">
+    <addressline>404 S COLUMBUS BOULEVARD, Tucson, AZ 85711</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho60215430</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll23545388">
+    <addressline>5950 S CARDINAL AVENUE, Tucson, AZ 85746</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho65645948</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll24636953">
+    <addressline>6902 E GOLF LINKS ROAD, Tucson, AZ 85730</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho73981089</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll25269188">
+    <addressline>2800 W INA ROAD, Tucson, AZ 85741</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho35031406</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll2571327">
+    <addressline>8445 E TANQUE VERDE ROAD, Tucson, AZ 85749</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho41593587</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll26385384">
+    <addressline>7200 E TANQUE VERDE ROAD, Tucson, AZ 85715</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho65308856</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll27171624">
+    <addressline>5011 E FT LOWELL ROAD, Tucson, AZ 85712</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho20902534</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll27395835">
+    <addressline>6465 S CRAYCROFT ROAD, Tucson, AZ 85756</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho53093371</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll27533972">
+    <addressline>7575 N PASEO DEL NORTE, Tucson, AZ 85704</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho31504200</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll28266539">
+    <addressline>1825 N ALVERNON WAY, Tucson, AZ 85712</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho24836322</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll28605423">
+    <addressline>7 S ABREGO DRIVE, Tucson, AZ 85614</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho74180190</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll28960626">
+    <addressline>5102 N CRAYCROFT ROAD, Tucson, AZ 85718</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho51142432</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll29288942">
+    <addressline>18280 S LA CANADA DRIVE, Tucson, AZ 85629</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho66352722</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll2928909">
+    <addressline>400 W CIRCULO DEL PALADIN, Tucson, AZ 85614</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho45673887</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll29633614">
+    <addressline>2238 E GINTER ROAD, Tucson, AZ 85706</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho11877027</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll29662982">
+    <addressline>8181 E IRVINGTON ROAD, Tucson, AZ 85709</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho66790233</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll30164123">
+    <addressline>801 N GRANDE AVENUE, Tucson, AZ 85745</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho48546656</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll30806569">
+    <addressline>17180 W 4TH ST, Tucson, AZ 85705</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho97965222</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll31073449">
+    <addressline>6060 S JOSEPH AVENUE, Tucson, AZ 85757</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho1384002</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll31611762">
+    <addressline>12111 N LA CHOLLA BOULEVARD, Tucson, AZ 85745</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho59697773</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll32258097">
+    <addressline>1305 W NARANJA DRIVE, Tucson, AZ 85737</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho75768714</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll33061115">
+    <addressline>785 W SAHUARO STREET, Tucson, AZ 85705</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho17118746</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll33468314">
+    <addressline>201 N COLUMBUS BOULEVARD, Tucson, AZ 85711</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho61249473</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll33489089">
+    <addressline>334 W LOS REALES ROAD, Tucson, AZ 85756</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho59348856</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll34077501">
+    <addressline>500 W CALLE CONCORDIA, Tucson, AZ 85704</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho83785237</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll34293123">
+    <addressline>375 W SAHUARITA CENTER WAY, Tucson, AZ 85629</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho39909776</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll34763634">
+    <addressline>HIGHWAY 86, MILE POST 126.5, Tucson, AZ 85653</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho77314702</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll35370279">
+    <addressline>3770 S MISSION ROAD, Tucson, AZ 85713</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho30051584</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll35621532">
+    <addressline>6700 E BROADWAY BOULEVARD, Tucson, AZ 85710</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho50309266</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll36009749">
+    <addressline>7300 N SHANNON ROAD, Tucson, AZ 85741</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho66045651</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll36245011">
+    <addressline>655 N CRAYCROFT ROAD, Tucson, AZ 85711</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho26595880</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll36364679">
+    <addressline>2900 N COLUMBUS BOULEVARD, Tucson, AZ 85712</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho32318629</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll36476095">
+    <addressline>850 N 11TH AVENUE, Tucson, AZ 85705</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho65704927</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll3677332">
+    <addressline>7474 S CAMINO DE OESTE, Tucson, AZ 85746</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho20140884</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll38137407">
+    <addressline>11040 E ESCALANTE ROAD, Tucson, AZ 85730</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho87127396</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll38305457">
+    <addressline>915 E 4TH STREET, Tucson, AZ 85719</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho21603197</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll3845070">
+    <addressline>2200 N TANQUE VERDE LOOP ROAD, Tucson, AZ 85749</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho95588473</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll38493056">
+    <addressline>4040 S BILBRAY AVENUE, Tucson, AZ 85746</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho62654360</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll38963402">
+    <addressline>8701 S KOLB ROAD, Tucson, AZ 85756</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho18983537</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll4090402">
+    <addressline>14055 N DEL WEBB BOULEVARD, Tucson, AZ 85755</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho44928998</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll41400377">
+    <addressline>INDIAN ROUTE 1, MILE POST 19, GU VO VILLAGE, Tucson, AZ 85741</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho60828329</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll41589599">
+    <addressline>5750 S TURQUOISE MOUNTAIN DRIVE, Tucson, AZ 85622</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho87756015</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll41757042">
+    <addressline>1000 S GREASEWOOD ROAD, Tucson, AZ 85745</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho46251723</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll41764270">
+    <addressline>4831 E 22ND STREET, Tucson, AZ 85711</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho68192794</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll42839910">
+    <addressline>9950 E REES LOOP, Tucson, AZ 85747</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho20757043</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll43670764">
+    <addressline>5600 N. LA CANADA DRIVE, Tucson, AZ 85704</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho80610927</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll43695237">
+    <addressline>600 N KOLB ROAD, Tucson, AZ 85710</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho11852272</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll43702794">
+    <addressline>1911 E ORANGE GROVE ROAD, Tucson, AZ 85718</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho9784157</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll44175041">
+    <addressline>4350 E 22ND STREET, Tucson, AZ 85711</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho23214585</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll44194012">
+    <addressline>5160 S TREAT AVENUE, Tucson, AZ 85706</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho49384670</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll44717141">
+    <addressline>9400 E ESMOND LOOP, Tucson, AZ 85747</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho9684676</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll449278">
+    <addressline>13251 N LON ADAMS ROAD, Tucson, AZ 85653</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho70465556</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll45377264">
+    <addressline>55 W ARROWSMITH DRIVE, Tucson, AZ 85755</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho94320416</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll45596939">
+    <addressline>16651 W CALLE CARMELA, Tucson, AZ 85653</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho93886088</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll45945019">
+    <addressline>4949 W HERITAGE CLUB BOULEVARD, Tucson, AZ 85658</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho76060898</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll46289957">
+    <addressline>1655 S ABREGO DRIVE, Tucson, AZ 85614</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho37394053</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll46706134">
+    <addressline>921 W VIA RIO FUERTE, Tucson, AZ 85614</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho95687334</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll4700765">
+    <addressline>5450 S PARK AVENUE, Tucson, AZ 85706</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho94497222</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll47012887">
+    <addressline>3353 N HOUGHTON ROAD, Tucson, AZ 85749</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho92865578</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll4962961">
+    <addressline>6265 N LA CANADA DRIVE, Tucson, AZ 85704</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho9243758</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll50310298">
+    <addressline>1930 S WILMOT ROAD, Tucson, AZ 85711</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho21282375</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll50971263">
+    <addressline>12775 E MARY ANN CLEVELAND WAY, Tucson, AZ 85641</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho43700272</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll51278841">
+    <addressline>1212 S PALO VERDE AVENUE, Tucson, AZ 85713</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho30765055</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll51392757">
+    <addressline>2861 W. PELSTON STREET, Tucson, AZ 85746</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho49161389</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll51540599">
+    <addressline>6620 E 22ND STREET, Tucson, AZ 85710</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho18106881</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll51710226">
+    <addressline>400 E UNIVERSITY BOULEVARD, Tucson, AZ 85705</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho15138561</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll53049388">
+    <addressline>1555 W OVERTON ROAD, Tucson, AZ 85704</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho20848023</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll53132184">
+    <addressline>1660 W RUTHRAUFF ROAD, Tucson, AZ 85705</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho12679013</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll53189569">
+    <addressline>3400 W MASSINGALE ROAD, Tucson, AZ 85741</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho53779761</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll53340381">
+    <addressline>8421 E WRIGHTSTOWN ROAD, Tucson, AZ 85715</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho59964723</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll53930617">
+    <addressline>1665 S LA CHOLLA BOULEVARD, Tucson, AZ 85713</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho4309982</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll54250610">
+    <addressline>9850 E RANKIN LOOP, Tucson, AZ 85747</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho12893961</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll54963861">
+    <addressline>10425 N THORNYDALE ROAD, Tucson, AZ 85742</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho83825525</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll55328536">
+    <addressline>600 S LA CANADA DRIVE, Tucson, AZ 85614</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho4865564</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll55438307">
+    <addressline>3800 E RIVER ROAD, Tucson, AZ 85718</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho55876348</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll55617962">
+    <addressline>3635 W MANGO DRIVE, Tucson, AZ 85741</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho32676138</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll55949435">
+    <addressline>3201 E PRESIDIO ROAD, Tucson, AZ 85716</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho63268824</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll56036244">
+    <addressline>14600 E COLOSSAL CAVE ROAD, Tucson, AZ 85641</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho34575360</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll56070290">
+    <addressline>11300 E. GREATERVILLE ROAD, 2 MILES WEST, HWY 83, Tucson, AZ 85719</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho76382316</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll5675942">
+    <addressline>101 W IRVINGTON ROAD, Tucson, AZ 85706</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho31274284</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll57592917">
+    <addressline>2055 E QUAIL CROSSING BOULEVARD, Tucson, AZ 85614</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho49241284</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll58548468">
+    <addressline>3601 W CROMWELL DRIVE, Tucson, AZ 85741</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho7269219</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll58606965">
+    <addressline>11575 N 1ST AVENUE, Tucson, AZ 85737</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho69874302</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll58901514">
+    <addressline>5900 W WESTERN WAY CIRCLE, Tucson, AZ 85713</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho70794832</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll58997223">
+    <addressline>3002 E GLENN STREET, Tucson, AZ 85716</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho96454702</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll59581435">
+    <addressline>2950 W LAMBERT LANE, Tucson, AZ 85742</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho68955602</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll59953981">
+    <addressline>6245 E BELLEVUE STREET, Tucson, AZ 85712</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho40450742</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll60308505">
+    <addressline>6575 S. COUNTRY CLUB ROAD, Tucson, AZ 85756</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho17356265</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll60587351">
+    <addressline>1313 S MISSION ROAD, Tucson, AZ 85713</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho20802184</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll60903958">
+    <addressline>7700 W BOPP ROAD, Tucson, AZ 85735</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho1159279</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll61117161">
+    <addressline>5250 W CORTARO FARMS ROAD, Tucson, AZ 85742</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho69841355</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll61385204">
+    <addressline>12949 N SABINO CANYON PARKWAY, Tucson, AZ 85619</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho53689273</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll61892881">
+    <addressline>3255 N CAMPBELL AVENUE, Tucson, AZ 85719</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho41942051</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll62297289">
+    <addressline>220 S 5TH AVENUE, Tucson, AZ 85701</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho26318853</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll63157953">
+    <addressline>504 W NEBRASKA STREET, Tucson, AZ 85706</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho96543106</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll63709412">
+    <addressline>4314 N ROMERO ROAD, Tucson, AZ 85705</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho21620956</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll64369935">
+    <addressline>7800 N SCHISLER DRIVE, Tucson, AZ 85743</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho52005121</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll64705247">
+    <addressline>71 E SAHUARITA ROAD, Tucson, AZ 85641</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho86252554</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll65514173">
+    <addressline>665 W ROLLER COASTER ROAD, Tucson, AZ 85704</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho16834465</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll65811134">
+    <addressline>9100 E SPEEDWAY BOULEVARD, Tucson, AZ 85710</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho5983254</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll66034784">
+    <addressline>FEDERAL ROUTE 19 &amp; FRESNAL CANYON ROAD, Tucson, AZ 85712</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho47790487</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll66587027">
+    <addressline>8845 N SILVERBELL ROAD, Tucson, AZ 85743</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho26445941</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll66822538">
+    <addressline>15790 W SILVERBELL ROAD, Tucson, AZ 85653</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho77702532</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll67313038">
+    <addressline>3110 E SKYLINE DRIVE, Tucson, AZ 85718</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho33730474</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll67743097">
+    <addressline>4900 W CORTARO FARMS ROAD, Tucson, AZ 85742</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho99235102</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll68235858">
+    <addressline>8881 N COACHLINE BOULEVARD, Tucson, AZ 85743</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho77264108</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll68312570">
+    <addressline>3617 N CAMINO BLANCO, Tucson, AZ 85718</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho90680893</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll68850419">
+    <addressline>4675 S HARRISON ROAD, Tucson, AZ 85730</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho42540203</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll68861732">
+    <addressline>16701 S HOUGHTON ROAD, Tucson, AZ 85641</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho98068637</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll70820436">
+    <addressline>12000 W EMIGH ROAD, Tucson, AZ 85743</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho67894099</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll71137832">
+    <addressline>145 W ALISO DRIVE, Tucson, AZ 85614</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho33190685</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll7214269">
+    <addressline>10600 S NOGALES HIGHWAY, Tucson, AZ 85756</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho91042756</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll72448915">
+    <addressline>2099 E RIVER ROAD, Tucson, AZ 85718</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho86988428</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll72882041">
+    <addressline>225 S PANTANO ROAD, Tucson, AZ 85710</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho12289163</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll7338703">
+    <addressline>15900 S RANCHO RESORT BOULEVARD, Tucson, AZ 85629</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho26491867</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll74670194">
+    <addressline>202 W VALENCIA ROAD, Tucson, AZ 85706</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho25493436</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll74759316">
+    <addressline>341 S SONOITA WAY, Tucson, AZ 85321</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho46593853</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll75038932">
+    <addressline>10701 E MARY ANN CLEVELAND WAY, Tucson, AZ 85747</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho19262410</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll75109402">
+    <addressline>2980 S CAMINO DEL SOL, Tucson, AZ 85622</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho54278522</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll75176952">
+    <addressline>10851 E OLD SPANISH TRAIL, Tucson, AZ 85748</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho96062757</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll75667551">
+    <addressline>5000 E ANDREW STREET, Tucson, AZ 85711</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho90027371</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll75874137">
+    <addressline>12620 N WOODBURNE AVENUE, Tucson, AZ 85755</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho12912115</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll76474418">
+    <addressline>1300 N GREASEWOOD ROAD, Tucson, AZ 85745</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho39818526</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll76567694">
+    <addressline>6163 S MIDVALE PARK ROAD, Tucson, AZ 85746</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho62572508</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll76708405">
+    <addressline>2121 S PANTANO ROAD, Tucson, AZ 85710</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho52008790</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll76837013">
+    <addressline>5757 W AJO HIGHWAY, Tucson, AZ 85735</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho51281977</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll76986408">
+    <addressline>7777 E SPEEDWAY BOULEVARD, Tucson, AZ 85710</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho71344778</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll77485850">
+    <addressline>1755 S HOUGHTON ROAD, Tucson, AZ 85748</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho58696769</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll77637077">
+    <addressline>1895 W SPEEDWAY BOULEVARD, Tucson, AZ 85745</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho17787208</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll77672129">
+    <addressline>FEDERAL ROUTE 19, TOPAWA ROAD, VAMORI VILLAGE, Tucson, AZ 85746</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho24187942</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll77812138">
+    <addressline>9151 N BALD EAGLE AVENUE, Tucson, AZ 85742</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho6003186</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll79937285">
+    <addressline>16150 W AJO WAY, Tucson, AZ 85735</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho36499333</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll80245125">
+    <addressline>VAYA CHIN VILLAGE, Tucson, AZ 85741</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho82692650</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll80872937">
+    <addressline>1550 S 6TH AVENUE, Tucson, AZ 85713</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho68744086</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll81338930">
+    <addressline>1140 E ROGER ROAD, Tucson, AZ 85719</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho15412542</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll83284205">
+    <addressline>1600 W IRVINGTON ROAD, Tucson, AZ 85746</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho67668327</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll84731703">
+    <addressline>601 E FORT LOWELL ROAD, Tucson, AZ 85705</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho31029519</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll8536874">
+    <addressline>3344 N CAMPBELL AVENUE, Tucson, AZ 85719</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho35862446</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll85482783">
+    <addressline>ARIZONA HIGHWAY 86 AND MILE POST 112, Tucson, AZ 85653</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho21614351</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll85859550">
+    <addressline>13260 E COLOSSAL CAVE ROAD, Tucson, AZ 85641</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho45867397</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll85963121">
+    <addressline>17750 S LA CANADA DRIVE, Tucson, AZ 85629</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho93326471</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll86318855">
+    <addressline>3535 W MESSALA WAY, Tucson, AZ 85746</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho50009097</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll86436075">
+    <addressline>3809 E 3RD STREET, Tucson, AZ 85716</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho56407317</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll86559419">
+    <addressline>1390 W SPEEDWAY BOULEVARD, Tucson, AZ 85745</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho21136198</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll87161583">
+    <addressline>5951 S 12TH AVENUE, Tucson, AZ 85706</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho6527151</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll87198763">
+    <addressline>11620 N COPPER SPRING TRAIL, Tucson, AZ 85737</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho31667855</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll87361987">
+    <addressline>225 N COUNTRY CLUB ROAD, Tucson, AZ 85716</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho37595313</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll8772042">
+    <addressline>8051 E BROADWAY BOULEVARD, Tucson, AZ 85710</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho43673936</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll88031044">
+    <addressline>3141 W IRONWOOD HILLS DRIVE, Tucson, AZ 85745</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho3297328</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll88298755">
+    <addressline>4520 W AJO WAY, Tucson, AZ 85746</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho83202237</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll88331799">
+    <addressline>3198 N FLOWING WELLS ROAD, Tucson, AZ 85705</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho74044613</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll88442506">
+    <addressline>9252 E 22ND STREET, Tucson, AZ 85710</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho15344413</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll89521348">
+    <addressline>9662 N LA CHOLLA BOULEVARD, Tucson, AZ 85742</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho16712589</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll89541842">
+    <addressline>7570 N PASEO DEL NORTE, Tucson, AZ 85704</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho64977985</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll89863583">
+    <addressline>5360 E PIMA STREET, Tucson, AZ 85712</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho17621980</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll8998713">
+    <addressline>7250 N CORTARO ROAD, Tucson, AZ 85743</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho58480611</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll90066140">
+    <addressline>5801 N SABINO CANYON ROAD, Tucson, AZ 85750</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho91788671</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll90286371">
+    <addressline>8600 N CAMINO DE OESTE, Tucson, AZ 85742</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho66290916</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll90321410">
+    <addressline>1241 W INA ROAD, Tucson, AZ 85704</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho91425215</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll90852284">
+    <addressline>2450 S KOLB ROAD, Tucson, AZ 85710</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho74451808</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll91059869">
+    <addressline>215 S CRAYCROFT ROAD, Tucson, AZ 85711</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho97873354</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll91476673">
+    <addressline>3600 W ORANGE GROVE ROAD, Tucson, AZ 85741</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho97496178</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll92096155">
+    <addressline>3130 W OVERTON ROAD, Tucson, AZ 85742</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho8642979</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll92153635">
+    <addressline>8959 E TANQUE VERDE ROAD, Tucson, AZ 85749</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho8224691</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll9225277">
+    <addressline>10801 N LA CHOLLA BOULEVARD, Tucson, AZ 85742</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho24495421</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll93174815">
+    <addressline>700 N BONANZA AVENUE, Tucson, AZ 85748</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho47947052</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll93373734">
+    <addressline>4550 S PALO VERDE ROAD, Tucson, AZ 85714</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho66551910</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll9412120">
+    <addressline>8625 E TANQUE VERDE ROAD, Tucson, AZ 85749</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho72497275</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll94532222">
+    <addressline>3738 N OLD SABINO CANYON ROAD, Tucson, AZ 85750</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho40218491</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll94898816">
+    <addressline>710 S KOLB ROAD, Tucson, AZ 85710</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho18636619</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll95319466">
+    <addressline>7651 N OLDFATHER ROAD, Tucson, AZ 85741</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho55371559</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll95347738">
+    <addressline>2005 S HOUGHTON ROAD, Tucson, AZ 85748</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho7141969</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll95593269">
+    <addressline>6971 N SANDARIO ROAD, Tucson, AZ 85743</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho66583316</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll95847843">
+    <addressline>9640 E GOLF LINKS ROAD, Tucson, AZ 85730</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho69734566</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll9599061">
+    <addressline>9455 E RITA ROAD, Tucson, AZ 85747</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho6370998</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll96282749">
+    <addressline>6740 S SANTA CLARA AVENUE, Tucson, AZ 85756</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho85929817</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll96359354">
+    <addressline>3001 E MIRAVISTA LANE, NORTH OF WILDS ROAD, Tucson, AZ 85739</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho99797036</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll9661262">
+    <addressline>101 W LOMITA AVENUE, Tucson, AZ 85321</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho53752787</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll96667597">
+    <addressline>16562 N ORACLE ROAD, Tucson, AZ 85739</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho3869618</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll9699331">
+    <addressline>SANTA ROSA COMMUNITY, Tucson, AZ 85741</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho68710358</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll97659631">
+    <addressline>8155 E POINCIANA DRIVE, Tucson, AZ 85730</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho38601438</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll98075304">
+    <addressline>4545 S MISSION ROAD, Tucson, AZ 85746</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho7209530</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll98180073">
+    <addressline>4440 N CAMPBELL AVENUE, Tucson, AZ 85718</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho44891430</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll98269002">
+    <addressline>15501 W AJO WAY, Tucson, AZ 85735</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho31823517</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll98367251">
+    <addressline>2018 W SAN XAVIER ROAD, Tucson, AZ 85746</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho18162958</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll98982434">
+    <addressline>1035 N TREAT AVENUE, Tucson, AZ 85716</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho22751404</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll99377158">
+    <addressline>3085 S CAMPBELL AVENUE, Tucson, AZ 85713</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho54225730</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>,
+  <pollinglocation id="poll99566731">
+    <addressline>7570 N THORNYDALE ROAD, Tucson, AZ 85741</addressline>
+    <hours>
+      <text language="en">06:00 AM-07:00 PM</text>
+    </hours>
+    <hoursopenid>ho10166748</hoursopenid>
+    <isdropbox>false</isdropbox>
+    <isearlyvoting>false</isearlyvoting>
+  </pollinglocation>
+]
