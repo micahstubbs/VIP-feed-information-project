@@ -1,0 +1,20 @@
+[
+  {
+    "nid": 4210,
+    "election_id": 5000,
+    "title": "New York General Election",
+    "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-36-New-York-2016-11-08.zip",
+    "division_id": "ocd-division/country:us/state:ny",
+    "vip_version": "3.0",
+    "user": "shannon@democracy.works"
+  },
+  {
+    "nid": 4211,
+    "election_id": 5000,
+    "title": "Florida General Election",
+    "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-12002-Florida-2016-11-08.zip",
+    "division_id": "ocd-division/country:us/state:fl",
+    "vip_version": "3.0",
+    "user": "maria@democracy.works"
+  }
+]

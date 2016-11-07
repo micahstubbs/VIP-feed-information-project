@@ -1,1 +1,0 @@
-[<polling_location id="4834536907761802"><address><location_name>Motley County Courthouse</location_name><line1>701 Dundee Ave</line1><city>Matador</city><state>TX</state><zip>79244</zip></address></polling_location>]

@@ -1,5 +1,6 @@
 data/**/*.xml
 data/**/*.zip
+data/**/*.txt
 node_modules/
 archives/
 .DS_Store
