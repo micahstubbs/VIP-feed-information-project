@@ -1,24 +1,38 @@
 from BeautifulSoup import BeautifulSoup
 import re
 import csv
+import json
+import os
 
-# Create the soup
-directory = 'vipfeed-32001-Nevada-2016-11-08'
-fileName = 'VIPFeed-32-2016-11-08.zip4207769818767271884.xml'
-file = 'data/{0}/{1}'.format(directory, fileName)
+with open('2016-general-election-datafeed-no-early-unparsed.json') as json_file:
+  datafeed = json.load(json_file)
 
-with open(file, 'r') as myfile:
-  input = myfile.read().replace('\n', '')
+  for d in datafeed:
+    try:
+      found = re.search('vipfeed(.*?)(?=\.zip",$)', d.feed_url).group(0)
+    except AttributeError:
+      # pattern not found in the original string
+      found = '' # apply your error handling
 
-soup = BeautifulSoup(input)
+    # Create the soup
+    directory = found
+    directoryPath = 'data/{0}'.format(directory)
+    fileName = os.listdir(directoryPath)[0]
+    filePath = 'data/{0}/{1}'.format(directory, fileName)
+    
+    with open(file, 'r') as myfile:
+      input = myfile.read().replace('\n', '')
+      soup = BeautifulSoup(input)
+    
+      # Search the soup
+      pollingLocations = soup.fetch('polling_location')
+      pollingLocationsString = str(pollingLocations)
+      # print pollingLocations
+    
+      # write the results out as a text file
+      # this is an array of xml-like pollinglocation objects
+      text_file = open('data/{0}/polling-locations.txt'.format(directory),   "w")
+      text_file.write(pollingLocationsString)
+      text_file.close()
 
-# Search the soup
-pollingLocations = soup.fetch('polling_location')
-pollingLocationsString = str(pollingLocations)
-# print pollingLocations
-
-# write the results out as a text file
-# this is an array of xml-like pollinglocation objects
-text_file = open('data/{0}/polling-locations.txt'.format(directory), "w")
-text_file.write(pollingLocationsString)
-text_file.close()
+      print 'wrote data/{0}/polling-locations.txt'.format(directory)

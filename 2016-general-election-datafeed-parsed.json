@@ -33,4 +33,12 @@
     "division_id": "ocd-division/country:us/state:va",
     "user": "maria@democracy.works"
   },
+  {
+    "nid": 4167,
+    "election_id": 5000,
+    "title": "Nevada General Election",
+    "feed_url": "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-32001-Nevada-2016-11-08.zip",
+    "division_id": "ocd-division/country:us/state:nv",
+    "user": "maria@democracy.works"
+  },
 ]
