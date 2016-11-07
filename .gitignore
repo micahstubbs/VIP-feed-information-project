@@ -1,4 +1,6 @@
-data/
+data/**/*.xml
+data/**/*.zip
 node_modules/
 archives/
 .DS_Store
+data/__MACOSX/

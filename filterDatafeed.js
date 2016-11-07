@@ -28,7 +28,7 @@ outputData.forEach(d => {
   })
 })
 
-// write a csv file
+// write a csv file of polling place names
 const outputCsvFile = '2016-general-election-polling-place-names.csv'
 // const outputCsvFile = '2016-general-election-polling-place-names-no-early.csv'
 const writer = csvWriter();
