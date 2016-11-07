@@ -9,8 +9,8 @@ Promise.promisifyAll(fs);
 
 etl.toStream(require('./datafeed.json').slice())
   .pipe(etl.map(d => {
-    // Ignore all datasets except  2016 general election data
-    if (d.election_id !== 5000 || typeof d.is_ocd_id_early_vote === 'undefined')
+    // Ignore all datasets except 2016 general election data
+    if (d.election_id !== 5000 && typeof d.is_ocd_id_early_vote === 'undefined')
       return;
 
     console.log('fetching',d.title);
