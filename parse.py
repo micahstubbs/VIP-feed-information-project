@@ -1,4 +1,4 @@
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 import lxml
 import re
 import csv
@@ -10,7 +10,7 @@ with open('2016-general-election-datafeed-no-early-unparsed.json') as json_file:
 
   for d in datafeed:
     # print d
-    print d["title"]
+    print(d["title"])
     try:
       found = re.search("vipfeed(.*?)(?=\.zip)", d["feed_url"]).group(0)
     except AttributeError:
@@ -23,7 +23,7 @@ with open('2016-general-election-datafeed-no-early-unparsed.json') as json_file:
     directoryPath = 'data/{0}'.format(directory)
     fileName = os.listdir(directoryPath)[0]
     filePath = 'data/{0}/{1}'.format(directory, fileName)
-    print filePath
+    print(filePath)
     
     with open(filePath, 'r') as myfile:
       input = myfile.read().replace('\n', '')
@@ -40,4 +40,4 @@ with open('2016-general-election-datafeed-no-early-unparsed.json') as json_file:
       text_file.write(pollingLocationsString)
       text_file.close()
 
-      print 'wrote data/{0}/polling-locations.txt'.format(directory)
+      print('wrote data/{0}/polling-locations.txt'.format(directory))

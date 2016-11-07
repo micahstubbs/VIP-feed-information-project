@@ -7,7 +7,9 @@ var fs = require('fs');
 var Promise = require('bluebird');
 Promise.promisifyAll(fs);
 
-etl.toStream(require('./datafeed.json').slice())
+var datafeed = './datafeed';
+// var datafeed = './unparsed-2016-general-election-datafeed-no-early.json';
+etl.toStream(require(datafeed).slice())
   .pipe(etl.map(d => {
     // Ignore all datasets except 2016 general election data
     if (d.election_id !== 5000 && typeof d.is_ocd_id_early_vote === 'undefined')
