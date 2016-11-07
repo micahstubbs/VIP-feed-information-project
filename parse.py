@@ -1,4 +1,5 @@
 from BeautifulSoup import BeautifulSoup
+import lxml
 import re
 import csv
 import json
@@ -8,7 +9,8 @@ with open('2016-general-election-datafeed-no-early-unparsed.json') as json_file:
   datafeed = json.load(json_file)
 
   for d in datafeed:
-    print d
+    # print d
+    print d["title"]
     try:
       found = re.search("vipfeed(.*?)(?=\.zip)", d["feed_url"]).group(0)
     except AttributeError:
@@ -17,7 +19,7 @@ with open('2016-general-election-datafeed-no-early-unparsed.json') as json_file:
 
     # Create the soup
     directory = found
-    print directory
+    # print directory
     directoryPath = 'data/{0}'.format(directory)
     fileName = os.listdir(directoryPath)[0]
     filePath = 'data/{0}/{1}'.format(directory, fileName)
@@ -25,8 +27,8 @@ with open('2016-general-election-datafeed-no-early-unparsed.json') as json_file:
     
     with open(filePath, 'r') as myfile:
       input = myfile.read().replace('\n', '')
-      soup = BeautifulSoup(input)
-    
+      soup = BeautifulSoup(input, "lxml-xml")
+
       # Search the soup
       pollingLocations = soup.fetch('polling_location')
       pollingLocationsString = str(pollingLocations)
