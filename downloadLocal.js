@@ -32,38 +32,7 @@ etl.toStream(require(datafeed).slice())
             .pipe(etl.map())   // empty map (i.e. passthrough) to get access to `.promise`
             .promise()   // returns a promise to an array of all the chunks
             .then( d => parser.toJson(d.join(''), {object: true}))  // Combine chunks => json
-            .then( d => {
-              // avoid RangeError: Invalid string length
-              // http://stackoverflow.com/a/33676707/1732222
-              var jsonString = '';
-
-              // create for sub-arrays 
-              var q1 = d.slice(0, Math.floor(d.length / 4));
-              var q2 = d.slice(Math.floor(d.length / 4), Math.floor(d.length / 4) * 2);
-              var q3 = d.slice(Math.floor(d.length / 4) * 2, Math.floor(d.length / 4) * 3);
-              var q4 = d.slice(Math.floor(d.length / 4) * 3, d.length);
-
-              console.log('d.length', d.length);
-              console.log('q1.length', q1.length);
-              console.log('q2.length', q2.length);
-              console.log('q3.length', q3.length);
-              console.log('q4.length', q4.length);
-
-              // stringify and remove first character, a `[`
-              var q1String = JSON.stringify(q1, null, 2).subString(1);
-              var q2String = JSON.stringify(q2, null, 2).subString(1);
-              var q3String = JSON.stringify(q3, null, 2).subString(1);
-              var q4String = JSON.stringify(q4, null, 2).subString(1);
-
-              // remove last character, a `]`
-              q1String = q1String.substring(0, q1String.length - 1);
-              q2String = q2String.substring(0, q2String.length - 1);
-              q3String = q3String.substring(0, q3String.length - 1);
-              q4String = q4String.substring(0, q4String.length - 1); 
-
-              // join all the strings back together and return that             
-              return ['[', q1, q2, q3, q4, ']'].join(',')
-            }) 
+            .then( d => JSON.stringify(d, null, 2)) 
             .then( e => fs.writeFileAsync(path.join(__dirname, 'data', d.title+'.json'), e));
         }))
         .promise()
