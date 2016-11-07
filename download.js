@@ -4,38 +4,29 @@ var request = require('request');
 var unzipper = require('unzipper');
 var parser = require('xml2json');
 var fs = require('fs');
-
+var Promise = require('bluebird');
+Promise.promisifyAll(fs);
 
 etl.toStream(require('./datafeed.json').slice())
   .pipe(etl.map(d => {
-
     // Ignore all datasets except  2016 general election data
-    if (d.election_id !== 5000 || typeof d.is_ocd_id_early_vote === 'undefined' || d.title === 'Utah General Early Voting')
+    if (d.election_id !== 5000 || typeof d.is_ocd_id_early_vote === 'undefined')
       return;
 
     console.log('fetching',d.title);
 
-    var buffer = '';
-
     return request(d.feed_url)
-      .pipe(etl.chain(function(inbound,outbound) {
-        inbound.pipe(unzipper.Parse())
-          .on('error', e => {
-            console.log('error',d.title,e);
-            outbound.end();
-          })
-          .on('entry',entry => entry
-            .pipe(etl.map(d => buffer += d.toString()))
-            .promise()
-            .then( () => {
-              var json = JSON.stringify(parser.toJson(buffer,{object:true}),null,2);
-              var filename = path.join(__dirname,'data',d.title+'.json');
-              fs.writeFile(filename,json, () => outbound.end());
-            })
-          );            
+      .pipe(unzipper.Parse())
+      .pipe(etl.map(entry => {
+        return entry
+          .pipe(etl.map())   // empty map (i.e. passthrough) to get access to `.promise`
+          .promise()   // returns a promise to an array of all the chunks
+          .then( d => parser.toJson(d.join(''), {object: true}))  // Combine chunks => json
+          .then( d => JSON.stringify(d, null, 2)) 
+          .then( e => fs.writeFileAsync(path.join(__dirname, 'data', d.title+'.json'), e));
       }))
       .promise()
-      .then( () => console.log('done',d.title));
+      .then( () => console.log('done',d.title), e => console.log('ERROR:', d.title,e));
   },{concurrency: 10}))
   .promise()
   .then( () => console.log('done'),console.log);
