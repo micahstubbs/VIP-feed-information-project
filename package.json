@@ -17,10 +17,14 @@
   },
   "homepage": "https://github.com/micahstubbs/VIP-feed-information-project#readme",
   "dependencies": {
+    "bluebird": "^3.4.6",
     "csv-write-stream": "^2.0.0",
+    "etl": "^0.3.26",
     "jsonfile": "^2.4.0",
     "lodash": "^4.16.6",
     "node-libcurl": "^1.0.0",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "request": "^2.78.0",
+    "unzipper": "^0.5.0"
   }
 }
